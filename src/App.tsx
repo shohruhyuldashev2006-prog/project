@@ -9,6 +9,7 @@ function App() {
         <a href="#">Contact</a>
         <button>click</button>
       </div>
+      <div>master branch o'zgardi</div>
     </div>
   );
 }
