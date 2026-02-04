@@ -9,11 +9,7 @@ function App() {
         <a href="#">Contact</a>
         <button>click</button>
       </div>
-<<<<<<< HEAD
       <div>master branch o'zgardi</div>
-=======
-      blog ozgardi
->>>>>>> blog
     </div>
   );
 }
